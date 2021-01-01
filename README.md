@@ -36,7 +36,6 @@
 <br>
 <br>
 <img src="https://img.shields.io/badge/Microsoft Outlook-27A2E3.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Access-881421.svg?&style=for-the-badge&logo=microsoft%20access&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Word-185ABD.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Excel-107C41.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft PowerPoint-C43E1C.svg?&style=for-the-badge&logo=microsoft%20powerpoint&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft OneNote-7317A6.svg?&style=for-the-badge&logo=microsoft%20onenote&logoColor=white"/>
-
 <br>
 
 ## Weekly productivity record
