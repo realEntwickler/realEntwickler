@@ -10,14 +10,13 @@
 
 [<img align="left" alt="realEntwickler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="realEntwickler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="realEntwickler | Gitlab" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][gitlab] 
 [<img align="left" alt="realEntwickler | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
 
 <br>
 
 ## Collaboration on:
 
-- [LostNameEU][lostnameweb], a non-profit Minecraft-Network
+- ~~[LostNameEU][lostnameweb], a non-profit Minecraft-Network~~
 <br>
 
 ## Languages and Tools:
