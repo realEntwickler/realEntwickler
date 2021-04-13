@@ -1,8 +1,8 @@
 # Hello world, I'm Nils - aka realEntwickler👋
 
-## I am a 15 year old student from Germany!
+## I am a 16 year old student from Germany!
 
-- 💻 I'm currently working on a [non-profit online organization][lostnameweb]!
+- ~~💻 I'm currently working on a [non-profit online organization][lostnameweb]!~~
 - ⚠ I'm a big fan of open source projects!
 - I'm currently learning Python, JavaScript and C++ development!
 
