@@ -37,19 +37,6 @@
 <img src="https://img.shields.io/badge/Microsoft Outlook-27A2E3.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Access-881421.svg?&style=for-the-badge&logo=microsoft%20access&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Word-185ABD.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Excel-107C41.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft PowerPoint-C43E1C.svg?&style=for-the-badge&logo=microsoft%20powerpoint&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft OneNote-7317A6.svg?&style=for-the-badge&logo=microsoft%20onenote&logoColor=white"/>
 <br>
 
-## Weekly productivity record
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   10 hrs 42 mins  █████████████████▓░░░░░░░   71.12 % 
-HTML         1 hr 35 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
-CSS          42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
-Java         36 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.03 % 
-Other        22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-```
-<!--END_SECTION:waka-->
-<br>
-
 ## Github Stats:
 <img align="left" alt="realEntwickler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realEntwickler&show_icons=true&hide_border=true">
   <br>
