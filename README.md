@@ -62,7 +62,6 @@ Other        22 mins         ▓░░░░░░░░░░░░░░░░
   <br>
   <br>
   <br>
-<img align="left" alt="realEntwickler's Top Langauges" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realEntwickler">
 
 [lostnameweb]: https://lostname.eu/
 [twitter]: https://twitter.com/realEntwickler
