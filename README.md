@@ -4,13 +4,11 @@
 
 - ~~💻 I'm currently working on a [non-profit online organization][lostnameweb]!~~
 - ⚠ I'm a big fan of open source projects!
-- I'm currently learning Python, JavaScript and C++ development!
 
 ## Connect with me:
 
-[<img align="left" alt="realEntwickler | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align="left" alt="realEntwickler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="realEntwickler | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
+[<img align="left" alt="realEntwickler | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
 
 <br>
 
