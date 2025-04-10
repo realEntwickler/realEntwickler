@@ -1,56 +1,17 @@
-# Hello world, I'm Nils - aka realEntwickler👋
+<h1 align="center">Hi 👋, I'm Nils aka. realEntwickler / VwVfG</h1>
+<h3 align="center">A passionate Java developer from Rhineland-Palatine, Germany</h3>
 
-## I am a 18 year old student from Germany!
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=realentwickler&label=Profile%20views&color=0e75b6&style=flat" alt="realentwickler" /> </p>
 
-- ~~💻 I'm currently working on a [non-profit online organization][lostnameweb]!~~
-- ⚠ I'm a big fan of open source projects!
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realentwickler" alt="realentwickler" /></a> </p>
 
-## Connect with me:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-[<img align="left" alt="realEntwickler | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="realEntwickler | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github] 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
 
-<br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=realentwickler&show_icons=true&locale=en&layout=compact" alt="realentwickler" /></p>
 
-## Collaboration on:
-
-- ~~[LostNameEU][lostnameweb], a non-profit Minecraft-Network~~
-<br>
-
-## Languages and Tools:
-
-
-<img src="https://img.shields.io/badge/java-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/><img src="https://img.shields.io/badge/Kotlin-FD7E51.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/><img src="https://img.shields.io/badge/python-319440.svg?&style=for-the-badge&logo=python&logoColor=white"/><img src="https://img.shields.io/badge/maven-C71A36.svg?&style=for-the-badge&logo=apache%20maven&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/><img src="https://img.shields.io/badge/mariadb-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/><img src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white"/><img src="https://img.shields.io/badge/JavaScript-F5DD1B?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/HTML-E54C21.svg?&style=for-the-badge"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-2071E6?style=for-the-badge&logo=intellij%20idea&logoColor=white"/><img src="https://img.shields.io/badge/PHPStorm-F62F88?style=for-the-badge&logo=phpstorm&logoColor=white"/><img src="https://img.shields.io/badge/PyCharm-20D088?style=for-the-badge&logo=pycharm&logoColor=white"/><img src="https://img.shields.io/badge/WebStorm-02C6D1?style=for-the-badge&logo=webstorm&logoColor=white"/><img src="https://img.shields.io/badge/GitKraken-138F84?style=for-the-badge&logo=gitkraken&logoColor=white"/><img src="https://img.shields.io/badge/visual%20studio%20code-007ACC.svg?&style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/><img src="https://img.shields.io/badge/atom-0aa372.svg?&style=for-the-badge&logo=atom&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/gitlab%20-FCA121.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/><img src="https://img.shields.io/badge/github%20-181717.svg?&style=for-the-badge&logo=github&logoColor=white"/><img src="https://img.shields.io/badge/gitea%20-5E9527.svg?&style=for-the-badge&logo=gitea&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Vivaldi-E63737?style=for-the-badge&logo=vivaldi&logoColor=white"/><img src="https://img.shields.io/badge/Slack-2EB67D?style=for-the-badge&logo=slack&logoColor=white"/><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/><img src="https://img.shields.io/badge/TeamSpeak 3-172E4A?style=for-the-badge&logo=teamspeak&logoColor=white"/><img src="https://img.shields.io/badge/TeamSpeak 5-269CCA?style=for-the-badge&logo=teamspeak&logoColor=white"/><img src="https://img.shields.io/badge/Adobe-FF0400?style=for-the-badge&logo=adobe&logoColor=white"/>
-<br>
-<br>
-<img src="https://img.shields.io/badge/Microsoft Outlook-27A2E3.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Access-881421.svg?&style=for-the-badge&logo=microsoft%20access&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Word-185ABD.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft Excel-107C41.svg?&style=for-the-badge&logo=microsoft%20word&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft PowerPoint-C43E1C.svg?&style=for-the-badge&logo=microsoft%20powerpoint&logoColor=white"/><img src="https://img.shields.io/badge/Microsoft OneNote-7317A6.svg?&style=for-the-badge&logo=microsoft%20onenote&logoColor=white"/>
-<br>
-
-## Github Stats:
-<img align="left" alt="realEntwickler's Github Stats" src="https://github-readme-stats.vercel.app/api?username=realEntwickler&show_icons=true&hide_border=true">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-
-[lostnameweb]: https://lostname.eu/
-[twitter]: https://twitter.com/realEntwickler
-[instagram]: https://instagram.com/realEntwickler
-[telegram]: https://t.me/realEntwickler
-[gitlab]: https://gitlab.com/realEntwickler
-[github]: https://github.com/realEntwickler
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=realentwickler&show_icons=true&locale=en" alt="realentwickler" /></p>
