@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=realentwickler" alt="realentwickler" /></a> </p>
 
-- 🔭 I’m currently working on [SMAYL 2.0](https://github.com/realEntwickler/SMAYL-2.0)
+- 🔭 I’m currently working on [SMAYL 2.0 - App](https://github.com/realEntwickler/smayl-app) and [SMAYL 2.0 - Backend](https://github.com/realEntwickler/smayl-backend)
 
 - 🌱 I’m currently learning **Flutter and Dart**
 
